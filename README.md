@@ -1,4 +1,5 @@
 //OPEN TERMINAL 
+
 npm install
 
 npm install -D tailwindcss
