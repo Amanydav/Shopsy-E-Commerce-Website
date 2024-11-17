@@ -1,9 +1,9 @@
-Enjoy the Free code + Assets 😍
+//OPEN TERMINAL 
+npm install
+npm install -D tailwindcss
+npx tailwindcss init
+npm run dev  
 
-  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
 
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+//  THEN ANY PROBLEM ASK ME 
+CONTACT US: https://in.linkedin.com/in/aman-kumar-000a36269
